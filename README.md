@@ -1,46 +1,14 @@
-<h3 align="left">Hi 👋! My name is Hiago Alves and I'm a Dev from Brazil</h3>
+# Hi there! 👋 I'm devhiago
 
-###
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devhiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+I am like a digital explorer in search of new horizons, a beginner front-end dev in constant discovery. With my insatiable curiosity and thirst for knowledge, I embark on an exciting journey to unravel the secrets of the web. With my code as a guide, I build bridges of HTML and CSS, creating vibrant digital landscapes that come to life. Despite the challenges I encounter, I face each obstacle with enthusiasm, turning mistakes into valuable learning opportunities. With every line of code I write, I sow the foundations of a bright future as a master of front-end. I am the hero in training, ready to conquer the digital world with my passion and development skills.
 
-###
+## GitHub Stats
 
-<img align="right" height="150" src="https://u-static.fotor.com/images/text-to-image/result/PRO-1edffab2d189454bb28f78ba50934f04.jpg"  />
+![devhiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhiago&show_icons=true&theme=dark)
 
-###
+Feel free to connect with me and explore the world of web development together!
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="62" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="62" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="62" alt="git logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="Hiago.Alves#7978" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="devhiago@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Devhiago/Devhiago/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Devhiago&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
