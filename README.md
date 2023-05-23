@@ -1,14 +1,18 @@
-# Hi there! 👋 I'm devhiago
+# Hi there! 👋
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I'm Hiago Alves, a passionate front-end developer on a journey to create captivating digital experiences.
 
-I am like a digital explorer in search of new horizons, a beginner front-end dev in constant discovery. With my insatiable curiosity and thirst for knowledge, I embark on an exciting journey to unravel the secrets of the web. With my code as a guide, I build bridges of HTML and CSS, creating vibrant digital landscapes that come to life. Despite the challenges I encounter, I face each obstacle with enthusiasm, turning mistakes into valuable learning opportunities. With every line of code I write, I sow the foundations of a bright future as a master of front-end. I am the hero in training, ready to conquer the digital world with my passion and development skills.
+## Skills
+- HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
+## About Me
+I am like a digital explorer in search of new horizons, constantly learning and pushing the boundaries of web development. With a strong eye for design and a love for clean code, I strive to create visually appealing and highly functional websites.
+
+## Get in Touch
+[![Gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:devhiago@gmail.com) - Reach out to me via email  
+[![Discord](https://img.icons8.com/fluent/48/000000/discord-logo.png)](https://discord.com/users/Hiago.Alves#7978) - Send me a message on Discord
 
 ## GitHub Stats
-
-![devhiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhiago&show_icons=true&theme=dark)
-
-Feel free to connect with me and explore the world of web development together!
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhiago&show_icons=true&hide=contribs)
