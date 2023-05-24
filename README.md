@@ -11,8 +11,8 @@ I'm Hiago Alves, a passionate front-end developer on a journey to create captiva
 I am like a digital explorer in search of new horizons, constantly learning and pushing the boundaries of web development. With a strong eye for design and a love for clean code, I strive to create visually appealing and highly functional websites.
 
 ## Get in Touch
-[![Gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:devhiago@gmail.com) - Reach out to me via email  
-[![Discord](https://img.icons8.com/fluent/48/000000/discord-logo.png)](https://discord.com/users/Hiago.Alves#7978) - Send me a message on Discord
+📧 [Email](mailto:devhiago@gmail.com) - Reach out to me via email  
+💬 [Discord](https://discord.com/users/Hiago.Alves#7978) - Send me a message on Discord
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhiago&show_icons=true&hide=contribs)
