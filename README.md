@@ -16,3 +16,5 @@ I am like a digital explorer in search of new horizons, constantly learning and 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhiago&show_icons=true&hide=contribs)
+
+![Snake animation](https://github.com/ubiratan-motta/devhiago/blob/output/github-contribution-grid-snake.svg)
