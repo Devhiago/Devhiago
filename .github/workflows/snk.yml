@@ -5,7 +5,7 @@
     github_user_name: Devhiago ${{ github.repository_owner }}
 
     # Nome da Actions:  
-name: snk.yml
+name: snk
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
