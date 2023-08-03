@@ -1,20 +1,31 @@
-# Hi there! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-I'm Hiago Alves, a passionate front-end developer on a journey to create captivating digital experiences.
+<p align="left"> 
+  <h1>Olá</h1>
+  <h3>Sejam Bem vindos ao meu perfil do Github</h3>
+  <h5>Me chamo Hiago Alves, tenho 27 anos e estudo Analise e Desenvolvimento de sistemas, com muitas dificuldades de concentração luto dia a pós dia para estudar <br>
+  e com isso alcançar meus objetivos, sou apaixonado por tecnologias,hacking e temas relacionados, atualmente estou aprendendo front-end mas futuramente pretendo ser um bom engenheiro de software e construir grandes aplicações para contribuir com o futuro de todos.</h5>
+</p>
 
-## Skills
-- HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+<p align="left">
+  🦄 Linguagens: HTML, CSS, JAVASCRIPT
+</p>
 
-## About Me
-I am like a digital explorer in search of new horizons, constantly learning and pushing the boundaries of web development. With a strong eye for design and a love for clean code, I strive to create visually appealing and highly functional websites.
+<p align="left">
+  💼 Ferramentas: <b>VISUAL STUDIO CODE</b>
+</p>
 
-## Get in Touch
-📧 [Email](mailto:devhiago@gmail.com) - Reach out to me via email  
-💬 [Discord](https://discord.com/users/Hiago.Alves#7978) - Send me a message on Discord
+<p align="left">
+  💌 Estou disponivel para contato nas plataformas abaixo =): ⤵️
+</p>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhiago&show_icons=true&hide=contribs)
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dev.hiagoalves@gmail.com" /></a>
 
-![Snake animation](https://github.com/ubiratan-motta/devhiago/blob/output/github-contribution-grid-snake.svg)
+  
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5511976286271"/></a>
+
+  
+</p>
