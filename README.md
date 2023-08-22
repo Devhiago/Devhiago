@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Estou disponivel para contato nas plataformas abaixo =): ⤵️
+  💌 Estou disponivel para contato nas plataformas abaixo =) ⤵️
 </p>
 
 <p align="left">
