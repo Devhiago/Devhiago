@@ -3,8 +3,7 @@
 <p align="left"> 
   <h1>Olá</h1>
   <h3>Sejam Bem vindos ao meu perfil do Github</h3>
-  <h5>Me chamo Hiago Alves, tenho 27 anos e estudo Analise e Desenvolvimento de sistemas, com muitas dificuldades de concentração luto dia a pós dia para estudar <br>
-  e com isso alcançar meus objetivos, sou apaixonado por tecnologias,hacking e temas relacionados, atualmente estou aprendendo front-end mas futuramente pretendo ser um bom engenheiro de software e construir grandes aplicações para contribuir com o futuro de todos.</h5>
+  <h5>Me chamo Hiago Alves, tenho 29 anos, formado em  Analise e Desenvolvimento de sistemas, Atualmente cursando MBA- Cyber Security, buscando uma colocação no mercado tech.</h5>
 </p>
 
 <p align="left">
