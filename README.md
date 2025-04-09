@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Python em formação de São Paulo<br><br>- 🐍 Estudando Python para automação e pentest<br>- 🔒 Interesse em segurança cibernética<br>- 🤖 Explorando IA no futuro<br>- 🚀 Focado em resolver problemas com código</p>
+<p align="left">Desenvolvedor Python em formação <br><br>- 🐍 Estudando Python para automação e pentest<br>- 🔒 Interesse em segurança cibernética<br>- 🤖 Explorando IA no futuro<br>- 🚀 Focado em resolver problemas com código</p>
 
 ###
 
